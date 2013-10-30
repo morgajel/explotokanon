@@ -1,0 +1,7 @@
+# This file is for private, sensitive data
+puppet/hiera.yaml
+#This file is 500 megs; we don't need to check it in, do we?
+CentOS-6.4-x86_64-v20130731.box
+#This file is specific to your instance. don't check it in.
+.vagrant
+.vagrant*
