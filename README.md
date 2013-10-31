@@ -3,8 +3,13 @@ explotokanon
 
 a puppet configuration to build a simple load cannon for on-the-go destruction of websites.
 
+The purpose of Explotokanon is to provide users with a way to set up a quick loadtesting server, either as a local virtualmachine, or as a hosted node.  By default, explotokanon runs on centos, but there is no reason it couldn't be updated to run on a debian-based server.
 
-Two options:
+
+
+
+
+You have two options for firing up explotokanon:
 
 1. clone this onto a bare box
 2. run the puppetize.sh script
